@@ -46,6 +46,7 @@ This task significantly enhanced understanding in:
  * Descriptive Statistics: Ability to generate and interpret summary statistics to understand data distributions.
  * Pattern Recognition: Skill in identifying trends, relationships, and anomalies within the dataset through visual and statistical analysis.
  * Role of EDA: Reinforced the understanding that EDA is a critical preliminary step in any ML project, providing the necessary groundwork for informed model building.
+   
 📁 Repository Contents
  * titanic_cleaned.csv: The cleaned and preprocessed dataset from Task 1, used as the basis for EDA.
  * [task_2].ipynb: The Jupyter Notebook containing all the Python code for performing EDA, including statistical summaries and visualizations.
