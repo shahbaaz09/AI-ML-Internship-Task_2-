@@ -1,7 +1,9 @@
 Task 2: Exploratory Data Analysis (EDA) - AI & ML Internship
 This repository contains the solution for Task 2: Exploratory Data Analysis (EDA) as part of the AI & ML Internship by Elevate Labs.
+
 🎯 Objective
 The main objective of this task was to understand the dataset using statistical methods and various visualizations. EDA is a crucial step to gain insights, identify patterns, trends, and anomalies before proceeding with machine learning model building.
+
 🛠 Tools Used
  * Python: The primary programming language.
  * Pandas: Essential for data manipulation and generating descriptive statistics.
@@ -9,8 +11,10 @@ The main objective of this task was to understand the dataset using statistical 
  * Matplotlib: A fundamental plotting library for creating static, interactive, and animated visualizations.
  * Seaborn: Built on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
  * Plotly (Optional): Can be used for interactive visualizations, though Matplotlib and Seaborn were primarily used for this task.
+   
 📊 Dataset
 The Titanic Dataset was used for this task. This dataset was previously cleaned and preprocessed in Task 1, providing a refined basis for performing EDA. The dataset contains information about passengers aboard the Titanic, including their demographics, travel class, and survival status.
+
 📝 Steps Performed
 The following steps were undertaken to perform a comprehensive Exploratory Data Analysis on the Titanic dataset:
  * Generate Summary Statistics:
@@ -35,6 +39,7 @@ The following steps were undertaken to perform a comprehensive Exploratory Data 
    * Identified which features appeared to be strong predictors of survival (e.g., 'Pclass', 'Sex', 'Age' to some extent).
    * Noted any features exhibiting significant skewness or a high number of outliers, which were handled in Task 1.
    * Discussed any unexpected trends or insights that emerged from the data exploration.
+     
 🧠 What Was Learned
 This task significantly enhanced understanding in:
  * Data Visualization: Proficiency in using Matplotlib and Seaborn to create various types of plots for data exploration.
